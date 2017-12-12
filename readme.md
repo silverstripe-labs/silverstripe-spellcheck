@@ -15,6 +15,11 @@ Ensure that your server is setup with [hunspell](http://hunspell.sourceforge.net
 Install the spellcheck module with composer, using `composer require silverstripe/spellcheck ^2.0`, or downloading
 the module and extracting to the 'spellcheck' directory under your project root.
 
+## Requirements
+
+* SilverStripe 4.0.2 or above
+* Hunspell
+
 **Note:** this version is compatible with SilverStripe 4. For SilverStripe 3, please see [the 1.x release line](https://github.com/silverstripe/silverstripe-spellcheck/tree/1.0).
 
 ## Configuration
